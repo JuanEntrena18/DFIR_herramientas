@@ -2,7 +2,7 @@
 Uso de herramiendas DFIR y SCIPTS
 
 ## DFIR_info -> Información completa del sistema. 
-- Este script para Windows crea los siguientes archivos:
+Este script para Windows crea los siguientes archivos:
 - systeminfo  > systeminfo.txt
 - netstat -a  > netstat.txt
 - ipconfig    > ipconfig.txt
